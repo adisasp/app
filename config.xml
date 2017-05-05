@@ -4,9 +4,10 @@
     <description>
         My second app
     </description>
-<icon src="logo.jpg">
+	
     <author email="needa__@gmail.com" href="http://adnan360.com">
         FPE
     </author>
     <access origin="*" />
+	<icon src="logo.jpg"/>
 </widget>
